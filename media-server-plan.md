@@ -1,6 +1,5 @@
 # Self-Hosted Media Server — Build Plan
 
-**Owner:** Arnav Gairola
 **Hardware:** Old laptop (24/7) + external hard drive with existing music library
 **Build time:** ~1 evening for tag cleanup, ~1 hour for everything else
 
