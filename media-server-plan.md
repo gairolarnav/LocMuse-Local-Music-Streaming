@@ -1,6 +1,5 @@
 # Self-Hosted Media Server — Build Plan
 
-**Owner:** Arnav Gairola
 **Hardware:** Old laptop (24/7) + external hard drive with existing music library
 **Status:** Post-review. Phase order corrected, security model made enforceable, backup scope inverted to match the governing principle.
 
