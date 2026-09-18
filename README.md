@@ -37,12 +37,4 @@ Streaming services rent you access to a catalogue they can change or revoke. Thi
 
 Idle footprint of the full stack is under 500 MB, so RAM is not the constraint. The binding constraint is disk I/O during the initial library scan.
 
-## Repo contents
-
-```
-media-server-plan.md      Architecture, security model, ingestion pipeline, limits
-tech-stack.md             Component choices and rationale
-backup-media-server.sh    SQLite-safe snapshot → restic → B2
-```
-
 Compose files, fstab entries, udev rules and systemd units land here as each phase completes. Secrets stay out — `.env.example` only.
